@@ -35,6 +35,7 @@ section#login{
 
 }
 section#login > div#imagem{
+    display: block;
     background:#BACDD9 url(../imagens/homem.jpg)  no-repeat;
     background-size: cover;
     background-position: center center ;
@@ -43,4 +44,5 @@ section#login > div#imagem{
 }
 section#login > div#formulario{
     padding: 10px;
+    display: block;
 }
